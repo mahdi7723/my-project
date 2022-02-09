@@ -1,0 +1,37 @@
+body
+{
+    direction: rtl;
+}
+#users
+{
+    background:#E9EAED;
+    text-align: center;
+    width:300px;
+    margin:auto;
+    padding: 10px;
+    border-radius: 8px;
+}
+#users .input
+{
+    padding: 8px;
+    font-family:tahoma;
+    width: 280px;
+    margin:5px 0;
+}
+#profile button
+{
+    background: #c72b2b;
+}
+#profile
+{
+    background:#E9EAED;
+    text-align: center;
+    width:300px;
+    margin:auto;
+    padding: 11px;
+    border-radius: 8px;
+}
+#profile a 
+{
+    text-decoration: none;
+}
